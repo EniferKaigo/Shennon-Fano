@@ -1,9 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T20:28:41.178Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 YaBrowser/23.3.4.603 Yowser/2.5 Safari/537.36" version="21.3.2" etag="di82HYt7frtwiEoCh_rN" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-23T20:34:23.673Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 YaBrowser/23.3.4.603 Yowser/2.5 Safari/537.36" etag="Qi1EXSzzlQmZCNFsVtuf" version="21.3.2" type="github">
   <diagram name="Страница 1" id="qZt4wcyKQcJxALjbdxPp">
-    <mxGraphModel>
+    <mxGraphModel dx="729" dy="393" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="a9Qnr16Q98hxMa5OrU3F-14" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);&quot;&gt;Medicament&lt;/span&gt;&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="187" y="137" width="171" height="120" as="geometry">
+            <mxRectangle x="180" y="180" width="45" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a9Qnr16Q98hxMa5OrU3F-15" value="PK" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="a9Qnr16Q98hxMa5OrU3F-14">
+          <mxGeometry y="30" width="171" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a9Qnr16Q98hxMa5OrU3F-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="a9Qnr16Q98hxMa5OrU3F-14" source="a9Qnr16Q98hxMa5OrU3F-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-46.32000732421875" y="75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a9Qnr16Q98hxMa5OrU3F-16" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="a9Qnr16Q98hxMa5OrU3F-14">
+          <mxGeometry y="60" width="171" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a9Qnr16Q98hxMa5OrU3F-17" value="&lt;br&gt;&lt;br&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="a9Qnr16Q98hxMa5OrU3F-14">
+          <mxGeometry y="90" width="171" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
